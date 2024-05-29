@@ -1,0 +1,29 @@
+body{
+    background-color: darkslateblu;
+    background-image: url(backgroundstarfield.png);
+}
+
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+}
+
+html {
+    max-width: fit-content;
+    margin:auto;
+}
+
+#banner2 {
+    margin-left: auto;
+}
+
+#home1 {
+    margin-left: 25px
+   }
+   #about2 {
+        margin-left: 135px;
+    }
+    #javascript1 {
+        margin-left: 148px;
+    }
+    
